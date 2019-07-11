@@ -12,7 +12,7 @@ DAG_NAME = 'Test_Dag'
 default_args = {
     'owner': 'Ishan Rastogi',
     'start_date': datetime(2019, 6, 8),
-    'email': ['ishan4488@gmail.com'],
+    'email': ['xyz@gmail.com'],
     'email_on_failure': True,
     'email_on_retry': False,
     'retries': 3,
